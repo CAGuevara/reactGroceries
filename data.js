@@ -20,4 +20,12 @@ const items = [
         quantity: 10,
         isPurchased: false
     },
+    {
+        item: 'Margarine',
+        brand: 'Kirkland',
+        units: '1 box',
+        quantity: 3,
+        isPurchased: false
+    }
+
 ]
